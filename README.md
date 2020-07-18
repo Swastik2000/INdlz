@@ -11,4 +11,7 @@ Light UI: Works faster than its rivals on low-end devices. Speed-oriented: Minim
 https://www.appkitindia.ml/
 
 ## Download the app
+[<img src="assets/google-play-badge.png" width="230">](https://play.google.com/store/apps/details?id=com.appkit.indlz)
+
+### OR Click the below link to download it.
 https://play.google.com/store/apps/details?id=com.appkit.indlz
